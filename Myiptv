@@ -859,3 +859,789 @@ http://iptv6.premium-stv.com:25461/pro2arab@arar/ghh@GT@jjGY/3500
 http://iptv6.premium-stv.com:25461/pro2arab@arar/ghh@GT@jjGY/3812
 #EXTINF:-1,|AR| WATAN TV HD
 http://iptv6.premium-stv.com:25461/pro2arab@arar/ghh@GT@jjGY/3813
+#EXTINF:-1,|FR| RMC SPORT NEWS FHD
+http://185.23.213.162:8789/live/ania/ania/35031.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1FHD
+http://185.23.213.162:8789/live/ania/ania/32713.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1HD
+http://185.23.213.162:8789/live/ania/ania/32718.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1 SD
+http://185.23.213.162:8789/live/ania/ania/39589.m3u8
+#EXTINF:-1,|FR| RMC SPORT ACCESS 1 HD
+http://185.23.213.162:8789/live/ania/ania/37931.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2FHD
+http://185.23.213.162:8789/live/ania/ania/32714.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2HD
+http://185.23.213.162:8789/live/ania/ania/32719.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2 SD
+http://185.23.213.162:8789/live/ania/ania/39588.m3u8
+#EXTINF:-1,|FR| RMC SPORT ACCESS 2 HD
+http://185.23.213.162:8789/live/ania/ania/37930.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3FHD
+http://185.23.213.162:8789/live/ania/ania/32715.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3HD
+http://185.23.213.162:8789/live/ania/ania/32720.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3 SD
+http://185.23.213.162:8789/live/ania/ania/39587.m3u8
+#EXTINF:-1,|FR| RMC SPORT ACCESS 3 HD
+http://185.23.213.162:8789/live/ania/ania/37929.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4FHD
+http://185.23.213.162:8789/live/ania/ania/32716.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4HD
+http://185.23.213.162:8789/live/ania/ania/32721.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4K
+http://185.23.213.162:8789/live/ania/ania/37942.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 5 FHD
+http://185.23.213.162:8789/live/ania/ania/32717.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 6 FHD
+http://185.23.213.162:8789/live/ania/ania/37941.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 7 FHD
+http://185.23.213.162:8789/live/ania/ania/37940.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 8 FHD
+http://185.23.213.162:8789/live/ania/ania/37939.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 9 FHD
+http://185.23.213.162:8789/live/ania/ania/37938.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 10 FHD
+http://185.23.213.162:8789/live/ania/ania/37937.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 11 FHD
+http://185.23.213.162:8789/live/ania/ania/37936.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 12 FHD
+http://185.23.213.162:8789/live/ania/ania/37935.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 13 FHD
+http://185.23.213.162:8789/live/ania/ania/37934.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 14 FHD
+http://185.23.213.162:8789/live/ania/ania/37933.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 15 FHD
+http://185.23.213.162:8789/live/ania/ania/37932.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 16 FHD
+http://185.23.213.162:8789/live/ania/ania/35340.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 1 FHD
+http://185.23.213.162:8789/live/ania/ania/14160.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 1 HD
+http://185.23.213.162:8789/live/ania/ania/28941.m3u8
+#EXTINF:-1,|FR| BEINSPORT 1 SD
+http://185.23.213.162:8789/live/ania/ania/92.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 2 F.HD
+http://185.23.213.162:8789/live/ania/ania/14159.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 2 HD
+http://185.23.213.162:8789/live/ania/ania/28943.m3u8
+#EXTINF:-1,|FR| BEINSPORT 2 SD
+http://185.23.213.162:8789/live/ania/ania/93.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 3 F.HD
+http://185.23.213.162:8789/live/ania/ania/14158.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 3 HD
+http://185.23.213.162:8789/live/ania/ania/14163.m3u8
+#EXTINF:-1,|FR| BEINSPORT 3 SD
+http://185.23.213.162:8789/live/ania/ania/94.m3u8
+#EXTINF:-1,|FR| BEINSPORT MAX 4
+http://185.23.213.162:8789/live/ania/ania/95.m3u8
+#EXTINF:-1,|FR| BEINSPORT MAX 5
+http://185.23.213.162:8789/live/ania/ania/39882.m3u8
+#EXTINF:-1,|FR| BEINSPORT MAX 6
+http://185.23.213.162:8789/live/ania/ania/1089.m3u8
+#EXTINF:-1,|FR| BEINSPORT MAX 7
+http://185.23.213.162:8789/live/ania/ania/1113.m3u8
+#EXTINF:-1,|FR| BEINSPORT MAX 8
+http://185.23.213.162:8789/live/ania/ania/1468.m3u8
+#EXTINF:-1,|FR| BEINSPORT MAX 9
+http://185.23.213.162:8789/live/ania/ania/1469.m3u8
+#EXTINF:-1,|FR| BEIN SPORT MAX 10
+http://185.23.213.162:8789/live/ania/ania/1470.m3u8
+#EXTINF:-1,|FR| CANAL+ SPORT FHD
+http://185.23.213.162:8789/live/ania/ania/14156.m3u8
+#EXTINF:-1,|FR| CANAL+ SPORT HD
+http://185.23.213.162:8789/live/ania/ania/14161.m3u8
+#EXTINF:-1,|FR| SPORT 365 FHD
+http://185.23.213.162:8789/live/ania/ania/25040.m3u8
+#EXTINF:-1,|FR| FOOT+ FHD
+http://185.23.213.162:8789/live/ania/ania/13937.m3u8
+#EXTINF:-1,|FR| FOOT+24 SD
+http://185.23.213.162:8789/live/ania/ania/425.m3u8
+#EXTINF:-1,|FR| CANAL+ SPORT SD
+http://185.23.213.162:8789/live/ania/ania/13936.m3u8
+#EXTINF:-1,|FR| ONZEO FHD
+http://185.23.213.162:8789/live/ania/ania/13786.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 1
+http://185.23.213.162:8789/live/ania/ania/13807.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 2
+http://185.23.213.162:8789/live/ania/ania/13802.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 3
+http://185.23.213.162:8789/live/ania/ania/13806.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 4
+http://185.23.213.162:8789/live/ania/ania/13805.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 5
+http://185.23.213.162:8789/live/ania/ania/13804.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 6
+http://185.23.213.162:8789/live/ania/ania/13803.m3u8
+#EXTINF:-1,|FR| NBA TV
+http://185.23.213.162:8789/live/ania/ania/46216.m3u8
+#EXTINF:-1,|FR| TRACE SPORT FULLHD
+http://185.23.213.162:8789/live/ania/ania/13797.m3u8
+#EXTINF:-1,|FR| BFM SPORT FHD
+http://185.23.213.162:8789/live/ania/ania/13843.m3u8
+#EXTINF:-1,|FR| BFM HD
+http://185.23.213.162:8789/live/ania/ania/13839.m3u8
+#EXTINF:-1,|FR| INFOSPORT FHD
+http://185.23.213.162:8789/live/ania/ania/13729.m3u8
+#EXTINF:-1,|FR| LEQUIPE 21 FHD
+http://iptv3.premium-stv.com:25461/SPORT@pro2@irr/nscd@z@bljbzd44t@/93
+#EXTINF:-1,|FR| EQUIPE 21 SD
+http://185.23.213.162:8789/live/ania/ania/1023.m3u8
+#EXTINF:-1,|FR| OL TV FHD
+http://185.23.213.162:8789/live/ania/ania/13842.m3u8
+#EXTINF:-1,|FR| EXTREME SPORTS
+http://185.23.213.162:8789/live/ania/ania/13740.m3u8
+#EXTINF:-1,|FR| MUSCULATION TV HD
+http://185.23.213.162:8789/live/ania/ania/13801.m3u8
+#EXTINF:-1,|FR| AUTOMOTO  HD
+http://185.23.213.162:8789/live/ania/ania/1035.m3u8
+#EXTINF:-1,|FR| MOTORSPORT HD
+http://185.23.213.162:8789/live/ania/ania/13782.m3u8
+#EXTINF:-1,|FR| MOTORSPORT FHD
+http://185.23.213.162:8789/live/ania/ania/13722.m3u8
+#EXTINF:-1,|FR| EUROSPORT 1 FHD
+http://185.23.213.162:8789/live/ania/ania/13742.m3u8
+#EXTINF:-1,|FR| EUROSPORT1 HD
+http://185.23.213.162:8789/live/ania/ania/14011.m3u8
+#EXTINF:-1,|FR| EUROSPORT 2 FHD
+http://iptv3.premium-stv.com:25461/eurosport2/8296049485/103
+#EXTINF:-1,|FR| EUROSPORT2 HD
+http://iptv3.premium-stv.com:25461/eurosport2/8296049485/103
+#EXTINF:-1,|FR| l'equipe 21 HD
+http://185.23.213.162:8789/live/ania/ania/13743.m3u8
+#EXTINF:-1,|FR| EQUIDIA HD
+http://185.23.213.162:8789/live/ania/ania/14012.m3u8
+#EXTINF:-1,|FR| FRANCE Ô FHD
+http://185.23.213.162:8789/live/ania/ania/89.m3u8
+#EXTINF:-1,|FR| LUCKY JACK HD
+http://185.23.213.162:8789/live/ania/ania/42548.m3u8
+#EXTINF:-1,|FR| GOLF+ FHD
+http://185.23.213.162:8789/live/ania/ania/13734.m3u8
+#EXTINF:-1,|FR| GOLF CHANNEL FHD
+http://185.23.213.162:8789/live/ania/ania/13689.m3u8
+#EXTINF:-1,|FR| GOLF CHANNELS HD
+http://185.23.213.162:8789/live/ania/ania/13977.m3u8
+#EXTINF:-1,|BE| •------• SPORTS •------• |BE|
+http://185.23.213.162:8789/live/ania/ania/24966.m3u8
+#EXTINF:-1,|BE| PLAY SPORT 1 HD
+http://185.23.213.162:8789/live/ania/ania/46646.m3u8
+#EXTINF:-1,|BE| PLAY SPORT 2 HD
+http://185.23.213.162:8789/live/ania/ania/46647.m3u8
+#EXTINF:-1,|BE| PROXIMUS 11 FHD
+http://185.23.213.162:8789/live/ania/ania/35336.m3u8
+#EXTINF:-1,|BE| VOO SPORT 1 FHD
+http://185.23.213.162:8789/live/ania/ania/14137.m3u8
+#EXTINF:-1,|BE| VOO SPORT WORLD 1 FHD
+http://185.23.213.162:8789/live/ania/ania/14136.m3u8
+#EXTINF:-1,|BE| VOO SPORT WORLD 2
+http://185.23.213.162:8789/live/ania/ania/14128.m3u8
+#EXTINF:-1,|BE| ELEVEN SPORT 1 HD
+http://185.23.213.162:8789/live/ania/ania/14134.m3u8
+#EXTINF:-1,|BE| ELEVEN SPORT 2 HD
+http://185.23.213.162:8789/live/ania/ania/14133.m3u8
+#EXTINF:-1,|BE| ELEVEN SPORT 3 HD
+http://185.23.213.162:8789/live/ania/ania/46648.m3u8
+#EXTINF:-1,|CH| TELECLUB SPORT 1 FHD
+http://185.23.213.162:8789/live/ania/ania/21764.m3u8
+#EXTINF:-1,|CH| TELECLUB SPORT 2 FHD
+http://185.23.213.162:8789/live/ania/ania/21763.m3u8
+#EXTINF:-1,|AR| •------• BEINS SPORT •------• |AR|
+http://185.23.213.162:8789/live/ania/ania/24983.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS NEWS HD
+http://185.23.213.162:8789/live/ania/ania/24979.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS GLOBAL HD
+http://185.23.213.162:8789/live/ania/ania/24980.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 1 HD
+http://185.23.213.162:8789/live/ania/ania/13688.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 1 BKP
+http://185.23.213.162:8789/live/ania/ania/13595.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 2 BKP
+http://185.23.213.162:8789/live/ania/ania/13687.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 2 HD
+http://185.23.213.162:8789/live/ania/ania/13686.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 2 BKP
+http://185.23.213.162:8789/live/ania/ania/13685.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 3 HD
+http://185.23.213.162:8789/live/ania/ania/13684.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 3 BKP
+http://185.23.213.162:8789/live/ania/ania/13683.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 4 HD
+http://185.23.213.162:8789/live/ania/ania/13682.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 4 BKP
+http://185.23.213.162:8789/live/ania/ania/13681.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 5 HD
+http://185.23.213.162:8789/live/ania/ania/13680.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 5 BKP
+http://185.23.213.162:8789/live/ania/ania/13679.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 6 HD
+http://185.23.213.162:8789/live/ania/ania/13678.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 6 BKP
+http://185.23.213.162:8789/live/ania/ania/13677.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 7 HD
+http://185.23.213.162:8789/live/ania/ania/13676.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 7 BKP
+http://185.23.213.162:8789/live/ania/ania/13675.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 8 HD
+http://185.23.213.162:8789/live/ania/ania/13674.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 8 BKP
+http://185.23.213.162:8789/live/ania/ania/13673.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 9 HD
+http://185.23.213.162:8789/live/ania/ania/13672.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 9 BKP
+http://185.23.213.162:8789/live/ania/ania/13587.m3u8
+#EXTINF:-1,|AR| BEINSPORT 10 HD
+http://185.23.213.162:8789/live/ania/ania/13670.m3u8
+#EXTINF:-1,|AR| BEINSPORT 10 BKP
+http://185.23.213.162:8789/live/ania/ania/13669.m3u8
+#EXTINF:-1,|AR| BEINSPORT 11 HD
+http://185.23.213.162:8789/live/ania/ania/24977.m3u8
+#EXTINF:-1,|AR| BEINSPORTS HD13
+http://185.23.213.162:8789/live/ania/ania/21202.m3u8
+#EXTINF:-1,|AR| BEINSPORTS HD14
+http://185.23.213.162:8789/live/ania/ania/21201.m3u8
+#EXTINF:-1,|AR| BEINSPORTS HD15
+http://185.23.213.162:8789/live/ania/ania/21200.m3u8
+#EXTINF:-1,|AR| BEINSPORTS HD16
+http://185.23.213.162:8789/live/ania/ania/21199.m3u8
+#EXTINF:-1,|AR| BEINSPORTS HD17
+http://185.23.213.162:8789/live/ania/ania/21198.m3u8
+#EXTINF:-1,|AR|****BEINSPORT FHD ****|AR|
+http://185.23.213.162:8789/live/ania/ania/24981.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 1 FHD
+http://185.23.213.162:8789/live/ania/ania/13611.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 2 FHD
+http://185.23.213.162:8789/live/ania/ania/13610.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 3 FHD
+http://185.23.213.162:8789/live/ania/ania/13609.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 4 FHD
+http://185.23.213.162:8789/live/ania/ania/13608.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 5 FHD
+http://185.23.213.162:8789/live/ania/ania/13607.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 6 FHD
+http://185.23.213.162:8789/live/ania/ania/13606.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 7 FHD
+http://185.23.213.162:8789/live/ania/ania/13605.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 8 FHD
+http://185.23.213.162:8789/live/ania/ania/13604.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 9 FHD
+http://185.23.213.162:8789/live/ania/ania/13603.m3u8
+#EXTINF:-1,|AR| BEINSPORT 10 FHD
+http://185.23.213.162:8789/live/ania/ania/13602.m3u8
+#EXTINF:-1,|AR| BEINSPORTS 1  SD
+http://185.23.213.162:8789/live/ania/ania/13601.m3u8
+#EXTINF:-1,|AR| BEINSPORTS 2  SD
+http://185.23.213.162:8789/live/ania/ania/13612.m3u8
+#EXTINF:-1,|AR| BEINSPORTS 3  SD
+http://185.23.213.162:8789/live/ania/ania/13613.m3u8
+#EXTINF:-1,|AR| BEINSPORTS 4  SD
+http://185.23.213.162:8789/live/ania/ania/13614.m3u8
+#EXTINF:-1,|AR| BEINSPORTS 5  SD
+http://185.23.213.162:8789/live/ania/ania/13615.m3u8
+#EXTINF:-1,|AR| BEINSPORTS 6  SD
+http://185.23.213.162:8789/live/ania/ania/13616.m3u8
+#EXTINF:-1,|AR| BEINSPORTS 7 SD
+http://185.23.213.162:8789/live/ania/ania/13617.m3u8
+#EXTINF:-1,|AR| BEINSPORTS 8 SD
+http://185.23.213.162:8789/live/ania/ania/13618.m3u8
+#EXTINF:-1,|AR| BEINSPORTS 9  SD
+http://185.23.213.162:8789/live/ania/ania/13641.m3u8
+#EXTINF:-1,|AR| BEINSPORTS 10  SD
+http://185.23.213.162:8789/live/ania/ania/13642.m3u8
+#EXTINF:-1,|AR| BEINSPORTS 11  SD
+http://185.23.213.162:8789/live/ania/ania/13643.m3u8
+#EXTINF:-1,|IT|***SKY Sport***|IT|
+http://185.23.213.162:8789/live/ania/ania/23589.m3u8
+#EXTINF:-1,|IT| SKY SPORT 24 HD
+http://185.23.213.162:8789/live/ania/ania/23588.m3u8
+#EXTINF:-1,|IT| SKY SPORT UNO HD
+http://185.23.213.162:8789/live/ania/ania/23587.m3u8
+#EXTINF:-1,|IT| SKY SPORT 2 HD
+http://185.23.213.162:8789/live/ania/ania/23586.m3u8
+#EXTINF:-1,|IT| SKY SPORT FOOTBALL  HD
+http://185.23.213.162:8789/live/ania/ania/23585.m3u8
+#EXTINF:-1,|IT| SKY SPORT ARENA FHD
+http://185.23.213.162:8789/live/ania/ania/23584.m3u8
+#EXTINF:-1,|IT| SKY SPORT COLLECTION HD
+http://185.23.213.162:8789/live/ania/ania/23583.m3u8
+#EXTINF:-1,|IT| SKY SPORT WWE HD
+http://185.23.213.162:8789/live/ania/ania/23582.m3u8
+#EXTINF:-1,|IT| SKY SPORT F1
+http://185.23.213.162:8789/live/ania/ania/23580.m3u8
+#EXTINF:-1,|IT| SKY MOTO GP
+http://185.23.213.162:8789/live/ania/ania/23579.m3u8
+#EXTINF:-1,|IT| EUROSPORT 1 HD
+http://185.23.213.162:8789/live/ania/ania/23578.m3u8
+#EXTINF:-1,|IT| EUROSPORT 2 HD
+http://185.23.213.162:8789/live/ania/ania/23577.m3u8
+#EXTINF:-1,|IT| SPORT ITALIA
+http://185.23.213.162:8789/live/ania/ania/23576.m3u8
+#EXTINF:-1,|IT| FIGHT CHANNEL
+http://185.23.213.162:8789/live/ania/ania/23575.m3u8
+#EXTINF:-1,|IT| SUPER TENNIS HD
+http://185.23.213.162:8789/live/ania/ania/23574.m3u8
+#EXTINF:-1,|IT| AUTOMOTO
+http://185.23.213.162:8789/live/ania/ania/23573.m3u8
+#EXTINF:-1,|IT| BIKE CHANNEL HD
+http://185.23.213.162:8789/live/ania/ania/23572.m3u8
+#EXTINF:-1,|IT| MILAN CHANNEL HD
+http://185.23.213.162:8789/live/ania/ania/23571.m3u8
+#EXTINF:-1,|IT| JUVENTUS TV
+http://185.23.213.162:8789/live/ania/ania/23570.m3u8
+#EXTINF:-1,|IT| INTER CHANNEL
+http://185.23.213.162:8789/live/ania/ania/23569.m3u8
+#EXTINF:-1,|IT| ROMA TV
+http://185.23.213.162:8789/live/ania/ania/23568.m3u8
+#EXTINF:-1,|IT| LAZIO CHANNEL HD
+http://185.23.213.162:8789/live/ania/ania/23567.m3u8
+#EXTINF:-1,|IT| TOP CALCIO 24
+http://185.23.213.162:8789/live/ania/ania/23566.m3u8
+#EXTINF:-1,|IT|*** CALCIO ***|IT|
+http://185.23.213.162:8789/live/ania/ania/24989.m3u8
+#EXTINF:-1,|IT| SKY SPORT 251 HD
+http://185.23.213.162:8789/live/ania/ania/23564.m3u8
+#EXTINF:-1,|IT| SKY SPORT 252 HD
+http://185.23.213.162:8789/live/ania/ania/23563.m3u8
+#EXTINF:-1,|IT| SKY SPORT 253 HD
+http://185.23.213.162:8789/live/ania/ania/23562.m3u8
+#EXTINF:-1,|IT| SKY SPORT 254 HD
+http://185.23.213.162:8789/live/ania/ania/23561.m3u8
+#EXTINF:-1,|IT| SKY SPORT 255 HD
+http://185.23.213.162:8789/live/ania/ania/23560.m3u8
+#EXTINF:-1,|IT| SKY SPORT 256 HD
+http://185.23.213.162:8789/live/ania/ania/23559.m3u8
+#EXTINF:-1,|IT| SKY SPORT 257 HD
+http://185.23.213.162:8789/live/ania/ania/23558.m3u8
+#EXTINF:-1,|IT| SKY CALCIO 8
+http://185.23.213.162:8789/live/ania/ania/23557.m3u8
+#EXTINF:-1,|IT| SKY CALCIO 9
+http://185.23.213.162:8789/live/ania/ania/23556.m3u8
+#EXTINF:-1,|IT| SKY CALCIO 10
+http://185.23.213.162:8789/live/ania/ania/23555.m3u8
+#EXTINF:-1,|IT| RAI SPORT
+http://185.23.213.162:8789/live/ania/ania/23649.m3u8
+#EXTINF:-1,|IT| PREMIUM SPORT HD
+http://185.23.213.162:8789/live/ania/ania/23471.m3u8
+#EXTINF:-1,|IT| PREMIUM SPORT 2
+http://185.23.213.162:8789/live/ania/ania/23470.m3u8
+#EXTINF:-1,|IT| FOX SPORT
+http://185.23.213.162:8789/live/ania/ania/23581.m3u8
+#EXTINF:-1,IT|PREMIUM EUROSPORT 1
+http://185.23.213.162:8789/live/ania/ania/23468.m3u8
+#EXTINF:-1,PREMIUM_EUROSPORT-2
+http://185.23.213.162:8789/live/ania/ania/23467.m3u8
+#EXTINF:-1,|IT| PREMIUM CALCIO 1
+http://185.23.213.162:8789/live/ania/ania/23466.m3u8
+#EXTINF:-1,|IT| PREMIUM CALCIO 2
+http://185.23.213.162:8789/live/ania/ania/23465.m3u8
+#EXTINF:-1,|IT| PREMIUM CALCIO 3
+http://185.23.213.162:8789/live/ania/ania/23464.m3u8
+#EXTINF:-1,|IT| PREMIUM CALCIO 4
+http://185.23.213.162:8789/live/ania/ania/23463.m3u8
+#EXTINF:-1,|IT| PREMIUM CALCIO 5
+http://185.23.213.162:8789/live/ania/ania/23462.m3u8
+#EXTINF:-1,|IT| PREMIUM CALCIO 6
+http://185.23.213.162:8789/live/ania/ania/23461.m3u8
+#EXTINF:-1,|IT| PREMIUM CALCIO 7
+http://185.23.213.162:8789/live/ania/ania/23460.m3u8
+#EXTINF:-1,|IT| PREMIUM FOX SPORT
+http://185.23.213.162:8789/live/ania/ania/23469.m3u8
+#EXTINF:-1,|ES|*****DEPORTES*****|ES|
+http://185.23.213.162:8789/live/ania/ania/23155.m3u8
+#EXTINF:-1,|ES| M DEPORTES 1 HD
+http://185.23.213.162:8789/live/ania/ania/14065.m3u8
+#EXTINF:-1,|ES| M DEPORTES 1
+http://185.23.213.162:8789/live/ania/ania/14066.m3u8
+#EXTINF:-1,|ES| M DEPORTES 2
+http://185.23.213.162:8789/live/ania/ania/14064.m3u8
+#EXTINF:-1,|ES| M DEPORTES 2 HD
+http://185.23.213.162:8789/live/ania/ania/14062.m3u8
+#EXTINF:-1,|ES| TOROS FHD
+http://185.23.213.162:8789/live/ania/ania/23154.m3u8
+#EXTINF:-1,|ES| M GOL TV
+http://185.23.213.162:8789/live/ania/ania/14082.m3u8
+#EXTINF:-1,|ES| M FÚTBOL FHD
+http://185.23.213.162:8789/live/ania/ania/14081.m3u8
+#EXTINF:-1,|ES| M FÚTBOL
+http://185.23.213.162:8789/live/ania/ania/14080.m3u8
+#EXTINF:-1,|ES| M TELEDEPORTE
+http://185.23.213.162:8789/live/ania/ania/14061.m3u8
+#EXTINF:-1,|ES| M beINSPORT HD
+http://185.23.213.162:8789/live/ania/ania/14076.m3u8
+#EXTINF:-1,|ES| M beINSPORTS
+http://185.23.213.162:8789/live/ania/ania/14077.m3u8
+#EXTINF:-1,|ES| M beIN LALIGA
+http://185.23.213.162:8789/live/ania/ania/14075.m3u8
+#EXTINF:-1,|ES| M beIN LALIGA FHD
+http://185.23.213.162:8789/live/ania/ania/14073.m3u8
+#EXTINF:-1,|ES| M LALIGA TV BAR
+http://185.23.213.162:8789/live/ania/ania/14072.m3u8
+#EXTINF:-1,|ES| M LALIGA TV Bar HD
+http://185.23.213.162:8789/live/ania/ania/14071.m3u8
+#EXTINF:-1,|ES| M REAL MADRID TV
+http://185.23.213.162:8789/live/ania/ania/14084.m3u8
+#EXTINF:-1,|ES| M BARCA TV
+http://185.23.213.162:8789/live/ania/ania/14085.m3u8
+#EXTINF:-1,|ES| M EUROSPORT 1 FHD
+http://185.23.213.162:8789/live/ania/ania/14060.m3u8
+#EXTINF:-1,|ES| M EUROSPORT 1
+http://185.23.213.162:8789/live/ania/ania/14059.m3u8
+#EXTINF:-1,|ES| M PARTIDAZO HD
+http://185.23.213.162:8789/live/ania/ania/14068.m3u8
+#EXTINF:-1,|ES| M PARTIDAZO
+http://185.23.213.162:8789/live/ania/ania/14069.m3u8
+#EXTINF:-1,|ES| M FORMULA 1 FHD
+http://185.23.213.162:8789/live/ania/ania/14053.m3u8
+#EXTINF:-1,|ES| M FORMULA 1 HD
+http://185.23.213.162:8789/live/ania/ania/14052.m3u8
+#EXTINF:-1,|ES| M MOTOGP FHD
+http://185.23.213.162:8789/live/ania/ania/14051.m3u8
+#EXTINF:-1,|ES| M MOTOGP HD
+http://185.23.213.162:8789/live/ania/ania/14050.m3u8
+#EXTINF:-1,|ES| M GOLF HD
+http://185.23.213.162:8789/live/ania/ania/14057.m3u8
+#EXTINF:-1,|PT| •------• SPORT •------• |PT|
+http://185.23.213.162:8789/live/ania/ania/23235.m3u8
+#EXTINF:-1,|PT| SPORT TV HD
+http://185.23.213.162:8789/live/ania/ania/14108.m3u8
+#EXTINF:-1,|PT| SPORT TV1 FHD
+http://185.23.213.162:8789/live/ania/ania/14102.m3u8
+#EXTINF:-1,|PT| SPORT TV1
+http://185.23.213.162:8789/live/ania/ania/14107.m3u8
+#EXTINF:-1,|PT| SPORT TV2 FHD
+http://185.23.213.162:8789/live/ania/ania/14101.m3u8
+#EXTINF:-1,|PT| SPORT TV2 HD
+http://185.23.213.162:8789/live/ania/ania/14106.m3u8
+#EXTINF:-1,|PT| SPORT TV3 FHD
+http://185.23.213.162:8789/live/ania/ania/14100.m3u8
+#EXTINF:-1,|PT| SPORT TV3
+http://185.23.213.162:8789/live/ania/ania/14105.m3u8
+#EXTINF:-1,|PT| SPORT TV4 FHD
+http://185.23.213.162:8789/live/ania/ania/14099.m3u8
+#EXTINF:-1,|PT| SPORT TV4
+http://185.23.213.162:8789/live/ania/ania/14104.m3u8
+#EXTINF:-1,|PT| SPORT TV5 FHD
+http://185.23.213.162:8789/live/ania/ania/14098.m3u8
+#EXTINF:-1,|PT| SPORT TV5 HD
+http://185.23.213.162:8789/live/ania/ania/14103.m3u8
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 FHD
+http://185.23.213.162:8789/live/ania/ania/29988.m3u8
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 BKP
+http://185.23.213.162:8789/live/ania/ania/35371.m3u8
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 FHD
+http://185.23.213.162:8789/live/ania/ania/29987.m3u8
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 BKP
+http://185.23.213.162:8789/live/ania/ania/35372.m3u8
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 FHD
+http://185.23.213.162:8789/live/ania/ania/29986.m3u8
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 BKP
+http://185.23.213.162:8789/live/ania/ania/35373.m3u8
+#EXTINF:-1,|PT| ELEVEN SPORTS 4 HD
+http://185.23.213.162:8789/live/ania/ania/29985.m3u8
+#EXTINF:-1,|PT| ELEVEN SPORTS 5 FHD
+http://185.23.213.162:8789/live/ania/ania/29984.m3u8
+#EXTINF:-1,|PT| ELEVEN SPORTS 6 HD
+http://185.23.213.162:8789/live/ania/ania/29983.m3u8
+#EXTINF:-1,|PT| BENIFICA TV FHD
+http://185.23.213.162:8789/live/ania/ania/14092.m3u8
+#EXTINF:-1,|PT| BENIFICA TV
+http://185.23.213.162:8789/live/ania/ania/14093.m3u8
+#EXTINF:-1,|PT| SPORTING TV
+http://185.23.213.162:8789/live/ania/ania/14091.m3u8
+#EXTINF:-1,|PT| A BOLA TV
+http://185.23.213.162:8789/live/ania/ania/14087.m3u8
+#EXTINF:-1,|PT|  CANAL 11
+http://185.23.213.162:8789/live/ania/ania/46339.m3u8
+#EXTINF:-1,|PT| PFC
+http://185.23.213.162:8789/live/ania/ania/14086.m3u8
+#EXTINF:-1,|PT| KOMBATSPORT
+http://185.23.213.162:8789/live/ania/ania/14090.m3u8
+#EXTINF:-1,|PT| EUROSPORT NEWS
+http://185.23.213.162:8789/live/ania/ania/14096.m3u8
+#EXTINF:-1,|PT| EUROSPORT 1HD
+http://185.23.213.162:8789/live/ania/ania/14097.m3u8
+#EXTINF:-1,|PT| EUROSPORT 1
+http://185.23.213.162:8789/live/ania/ania/14095.m3u8
+#EXTINF:-1,|PT| EUROSPORT 2
+http://185.23.213.162:8789/live/ania/ania/14094.m3u8
+#EXTINF:-1,|PT| FUEL TV
+http://185.23.213.162:8789/live/ania/ania/23234.m3u8
+#EXTINF:-1,|PT| MOTORSPORT TV
+http://185.23.213.162:8789/live/ania/ania/14089.m3u8
+#EXTINF:-1,|PT| MOTORVISION
+http://185.23.213.162:8789/live/ania/ania/14088.m3u8
+#EXTINF:-1,|PT| TOROS
+http://185.23.213.162:8789/live/ania/ania/23233.m3u8
+#EXTINF:-1,|AR| AD SPORT 1HD
+http://iptv6.premium-stv.com:25461/SOURCEARABPRO22/3113638606/2259
+#EXTINF:-1,|AR| AD SPORT 2HD
+http://iptv6.premium-stv.com:25461/SOURCEARABPRO22/3113638606/2260
+#EXTINF:-1,|AR| AD SPORT 3HD
+http://185.23.213.162:8789/live/ania/ania/21194.m3u8
+#EXTINF:-1,|AR| AD SPORT 4HD
+http://185.23.213.162:8789/live/ania/ania/21193.m3u8
+#EXTINF:-1,|AR| AD SPORT 5HD
+http://185.23.213.162:8789/live/ania/ania/21192.m3u8
+#EXTINF:-1,|AR| AD SPORT 6HD
+http://185.23.213.162:8789/live/ania/ania/21191.m3u8
+#EXTINF:-1,|OSN| Ad Sport 1HD
+http://185.23.213.162:8789/live/ania/ania/47364.m3u8
+#EXTINF:-1,|OSN| Ad Sport 2HD
+http://185.23.213.162:8789/live/ania/ania/47365.m3u8
+#EXTINF:-1,|OSN| Ad Sport 3HD
+http://185.23.213.162:8789/live/ania/ania/47366.m3u8
+#EXTINF:-1,|OSN| Ad Sport 4HD
+http://185.23.213.162:8789/live/ania/ania/47367.m3u8
+#EXTINF:-1,|USA| beINSPORT US
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1820
+#EXTINF:-1,|USA| FOX SPORT 1HD
+http://185.23.213.162:8789/live/ania/ania/24107.m3u8
+#EXTINF:-1,|USA| FOX SPORT 2HD
+http://185.23.213.162:8789/live/ania/ania/24106.m3u8
+#EXTINF:-1,|USA| ESPN
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1784
+#EXTINF:-1,|USA| ESPN 2HD
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1783
+#EXTINF:-1,|USA| ESPN Deportes
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1781
+#EXTINF:-1,|USA| ESPNEWS
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1779
+#EXTINF:-1,|USA| ESPN U HD
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1780
+#EXTINF:-1,|USA| BTN
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1808
+#EXTINF:-1,|USA| CBS SPORTS NET
+http://185.23.213.162:8789/live/ania/ania/24098.m3u8
+#EXTINF:-1,|USA| NBC SPORTS Net HD
+http://185.23.213.162:8789/live/ania/ania/24097.m3u8
+#EXTINF:-1,|USA| NBC GOLF
+http://185.23.213.162:8789/live/ania/ania/24096.m3u8
+#EXTINF:-1,|USA| Tennis Channel HD
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1734
+#EXTINF:-1,|USA| FOX DEPORTES
+http://185.23.213.162:8789/live/ania/ania/24094.m3u8
+#EXTINF:-1,|USA| WWE HD
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1720
+#EXTINF:-1,|USA| MLB HD
+http://185.23.213.162:8789/live/ania/ania/24092.m3u8
+#EXTINF:-1,|USA| NBA
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1747
+#EXTINF:-1,|USA| NBA 1  MATCH EVENT
+http://185.23.213.162:8789/live/ania/ania/24090.m3u8
+#EXTINF:-1,|USA| NBA 2  MATCH EVENT
+http://185.23.213.162:8789/live/ania/ania/24089.m3u8
+#EXTINF:-1,|USA| NBA 3  MATCH EVENT
+http://185.23.213.162:8789/live/ania/ania/24088.m3u8
+#EXTINF:-1,|USA| NBA 4  MATCH EVENT
+http://185.23.213.162:8789/live/ania/ania/24087.m3u8
+#EXTINF:-1,|USA| NBA 5  MATCH EVENT
+http://185.23.213.162:8789/live/ania/ania/24086.m3u8
+#EXTINF:-1,|USA| NBA 6  MATCH EVENT
+http://185.23.213.162:8789/live/ania/ania/24085.m3u8
+#EXTINF:-1,|USA| NBA 7 MATCH EVENT
+http://185.23.213.162:8789/live/ania/ania/24084.m3u8
+#EXTINF:-1,|USA| NBA 8 MATCH EVENT
+http://185.23.213.162:8789/live/ania/ania/24083.m3u8
+#EXTINF:-1,|USA| NBA 9 MATCH EVENT
+http://185.23.213.162:8789/live/ania/ania/24082.m3u8
+#EXTINF:-1,|USA| NBA 10 MATCH EVENT
+http://185.23.213.162:8789/live/ania/ania/24081.m3u8
+#EXTINF:-1,|USA| NBA 11
+http://185.23.213.162:8789/live/ania/ania/24080.m3u8
+#EXTINF:-1,|USA| NHL HD
+http://185.23.213.162:8789/live/ania/ania/24079.m3u8
+#EXTINF:-1,|USA| NHL 1 MATCH EVENT
+http://185.23.213.162:8789/live/ania/ania/24078.m3u8
+#EXTINF:-1,|USA| NHL 2 MATCH EVENT
+http://185.23.213.162:8789/live/ania/ania/24077.m3u8
+#EXTINF:-1,|USA| NHL 3 MATCH EVENT
+http://185.23.213.162:8789/live/ania/ania/24076.m3u8
+#EXTINF:-1,|USA| NHL 4 MATCH EVENT
+http://185.23.213.162:8789/live/ania/ania/24075.m3u8
+#EXTINF:-1,|USA| NHL 5  MATCH EVENT
+http://185.23.213.162:8789/live/ania/ania/24074.m3u8
+#EXTINF:-1,|UK|*****SKY SPORT*****|UK|
+http://185.23.213.162:8789/live/ania/ania/23459.m3u8
+#EXTINF:-1,|UK| SKY SPORT NEWS HD
+http://185.23.213.162:8789/live/ania/ania/23458.m3u8
+#EXTINF:-1,|UK| SKY SPORT PREMIERE LEAGUE
+http://185.23.213.162:8789/live/ania/ania/23457.m3u8
+#EXTINF:-1,|UK| SKY SPORT CRICKET FHD
+http://185.23.213.162:8789/live/ania/ania/23456.m3u8
+#EXTINF:-1,|UK| SKY SPORT ACTION
+http://185.23.213.162:8789/live/ania/ania/23455.m3u8
+#EXTINF:-1,|UK| SKY SPORT GOLF HD
+http://185.23.213.162:8789/live/ania/ania/23454.m3u8
+#EXTINF:-1,|UK| SKY SPORT FOOTBALL HD
+http://185.23.213.162:8789/live/ania/ania/23453.m3u8
+#EXTINF:-1,|UK| BT SPORT 1 FHD
+http://iptv3.premium-stv.com:25461/SPORT@pro2@irr/nscd@z@bljbzd44t@/98
+#EXTINF:-1,|UK| BT SPORT 2 FHD
+http://iptv3.premium-stv.com:25461/SPORT@pro2@irr/nscd@z@bljbzd44t@/99
+#EXTINF:-1,|UK| BT SPORT 3 FHD
+http://iptv3.premium-stv.com:25461/SPORT@pro2@irr/nscd@z@bljbzd44t@/100
+#EXTINF:-1,|UK| BTSPORT ESPN HD
+http://185.23.213.162:8789/live/ania/ania/23449.m3u8
+#EXTINF:-1,|UK| CHELSEA
+http://185.23.213.162:8789/live/ania/ania/23446.m3u8
+#EXTINF:-1,|UK| SKY SPORTF1
+http://185.23.213.162:8789/live/ania/ania/23445.m3u8
+#EXTINF:-1,|UK| EUROSPORT 1 hd
+http://185.23.213.162:8789/live/ania/ania/23444.m3u8
+#EXTINF:-1,|UK| EUROSPORT 2 HD
+http://185.23.213.162:8789/live/ania/ania/23443.m3u8
+#EXTINF:-1,|UK| Setanta Sport 1
+http://185.23.213.162:8789/live/ania/ania/23447.m3u8
+#EXTINF:-1,|UK| SetantaSports Ireland
+http://185.23.213.162:8789/live/ania/ania/23448.m3u8
+#EXTINF:-1,|UK| Sky Sports Premier League
+http://185.23.213.162:8789/live/ania/ania/23442.m3u8
+#EXTINF:-1,|UK| MOTORS
+http://185.23.213.162:8789/live/ania/ania/28358.m3u8
+#EXTINF:-1,|UK| BIKE
+http://185.23.213.162:8789/live/ania/ania/23441.m3u8
+#EXTINF:-1,|UK| AT THE RACES
+http://185.23.213.162:8789/live/ania/ania/23440.m3u8
+#EXTINF:-1,|UK| FIGHTBOX
+http://185.23.213.162:8789/live/ania/ania/23439.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1 (SD)
+http://185.23.213.162:8789/live/ania/ania/39503.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2 (SD)
+http://185.23.213.162:8789/live/ania/ania/39502.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3 (SD)
+http://185.23.213.162:8789/live/ania/ania/39501.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4 (SD)
+http://185.23.213.162:8789/live/ania/ania/39500.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 1 (SD)
+http://185.23.213.162:8789/live/ania/ania/39499.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 2(SD)
+http://185.23.213.162:8789/live/ania/ania/39498.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 3 (SD)
+http://185.23.213.162:8789/live/ania/ania/39497.m3u8
+#EXTINF:-1,|FR| INFOSPORT  (SD)
+http://185.23.213.162:8789/live/ania/ania/39496.m3u8
+#EXTINF:-1,|FR| EUROSPORT 1 (SD)
+http://185.23.213.162:8789/live/ania/ania/39494.m3u8
+#EXTINF:-1,|FR| EUROSPORT 2 (SD)
+http://185.23.213.162:8789/live/ania/ania/39493.m3u8
+#EXTINF:-1,|FR| AUTOMOTO LA CHAINE (SD)
+http://185.23.213.162:8789/live/ania/ania/39490.m3u8
+#EXTINF:-1,|FR| EQUIDIA (SD)
+http://185.23.213.162:8789/live/ania/ania/39492.m3u8
+#EXTINF:-1,|FR| GOLF  (SD)
+http://185.23.213.162:8789/live/ania/ania/39489.m3u8
+#EXTINF:-1,|FR| FOOT  24/24 (SD)
+http://185.23.213.162:8789/live/ania/ania/39491.m3u8
+#EXTINF:-1,|FR| RMC SPORT1 |HEVC|
+http://185.23.213.162:8789/live/ania/ania/47502.m3u8
+#EXTINF:-1,|FR| RMC SPORT2 |HEVC|
+http://185.23.213.162:8789/live/ania/ania/47503.m3u8
+#EXTINF:-1,|FR| RMC SPORT3 |HEVC|
+http://185.23.213.162:8789/live/ania/ania/47504.m3u8
+#EXTINF:-1,|FR| RMC SPORT4 |HEVC|
+http://185.23.213.162:8789/live/ania/ania/47505.m3u8
+#EXTINF:-1,|FR| BEIN 1 |HEVC|
+http://185.23.213.162:8789/live/ania/ania/47499.m3u8
+#EXTINF:-1,|FR| BEIN 2 |HEVC|
+http://185.23.213.162:8789/live/ania/ania/47500.m3u8
+#EXTINF:-1,|FR| BEIN 3 |HEVC|
+http://185.23.213.162:8789/live/ania/ania/47501.m3u8
+#EXTINF:-1,|FR| CANAL SPORT |HEVC|
+http://185.23.213.162:8789/live/ania/ania/47509.m3u8
+#EXTINF:-1,|FR| L'EQUIPE |HEVC|
+http://185.23.213.162:8789/live/ania/ania/47489.m3u8
+#EXTINF:-1,|FR| EQUIDIA |HEVC|
+http://185.23.213.162:8789/live/ania/ania/47527.m3u8
+#EXTINF:-1,|FR| EUROSPORT |HEVC|
+http://185.23.213.162:8789/live/ania/ania/47548.m3u8
+#EXTINF:-1,|FR| EUROSPORT2 |HEVC|
+http://iptv3.premium-stv.com:25461/eurosport2/8296049485/103
+#EXTINF:-1,|CH| TELECLUB SPORT 1
+http://185.23.213.162:8789/live/ania/ania/21766.m3u8
+#EXTINF:-1,|CH| MY SPORT HD
+http://185.23.213.162:8789/live/ania/ania/29559.m3u8
+#EXTINF:-1,|CH| MY SPORT 1 HD
+http://185.23.213.162:8789/live/ania/ania/29558.m3u8
+#EXTINF:-1,|CH| MY SPORT 2 HD
+http://185.23.213.162:8789/live/ania/ania/29557.m3u8
+#EXTINF:-1,|CH| MY SPORT 3 HD
+http://185.23.213.162:8789/live/ania/ania/29556.m3u8
+#EXTINF:-1,|CH| MY SPORT 4 HD
+http://185.23.213.162:8789/live/ania/ania/29555.m3u8
+#EXTINF:-1,|CH| MY SPORT 5 HD
+http://185.23.213.162:8789/live/ania/ania/29554.m3u8
+#EXTINF:-1,|CH| MY SPORT 6 HD
+http://185.23.213.162:8789/live/ania/ania/29553.m3u8
+#EXTINF:-1,|CH| MY SPORT 7 HD
+http://185.23.213.162:8789/live/ania/ania/29552.m3u8
+#EXTINF:-1,|CH| MY SPORT 8 HD
+http://185.23.213.162:8789/live/ania/ania/29551.m3u8
+#EXTINF:-1,|CH| MY SPORT9 FHD
+http://185.23.213.162:8789/live/ania/ania/29550.m3u8
+#EXTINF:-1,|IT |PREMIUM CINEMA2
+http://185.23.213.162:8789/live/ania/ania/23490.m3u8
+#EXTINF:-1,|IT| DAZN Info
+http://185.23.213.162:8789/live/ania/ania/29589.m3u8
+#EXTINF:-1,|IT| DAZN Sport 0
+http://185.23.213.162:8789/live/ania/ania/29588.m3u8
+#EXTINF:-1,|IT| DAZN Sport 1
+http://185.23.213.162:8789/live/ania/ania/29587.m3u8
+#EXTINF:-1,|IT| DAZN Sport 2
+http://185.23.213.162:8789/live/ania/ania/29585.m3u8
+#EXTINF:-1,|IT| DAZN Sport 3
+http://185.23.213.162:8789/live/ania/ania/29584.m3u8
+#EXTINF:-1,|IT| DAZN sport 4
+http://185.23.213.162:8789/live/ania/ania/29583.m3u8
+#EXTINF:-1,|IT| DAZN Sport 5
+http://185.23.213.162:8789/live/ania/ania/29582.m3u8
+#EXTINF:-1,|IT| DAZN Sport 6
+http://185.23.213.162:8789/live/ania/ania/29581.m3u8
+#EXTINF:-1,|IT| DAZN Sport 7
+http://185.23.213.162:8789/live/ania/ania/29580.m3u8
+#EXTINF:-1,|IT| DAZN Sport 8
+http://185.23.213.162:8789/live/ania/ania/29579.m3u8
+#EXTINF:-1,|IT| DAZN Sport 9
+http://185.23.213.162:8789/live/ania/ania/29578.m3u8
+#EXTINF:-1,|IT| DAZN Sport 10
+http://185.23.213.162:8789/live/ania/ania/29586.m3u8
+#EXTINF:-1,|CA| SPORTNET 360
+http://185.23.213.162:8789/live/ania/ania/40746.m3u8
+#EXTINF:-1,|CA| SPORTNET ONE
+http://185.23.213.162:8789/live/ania/ania/40747.m3u8
+#EXTINF:-1,|CA| SPORTNET ONTARIO
+http://185.23.213.162:8789/live/ania/ania/40748.m3u8
+#EXTINF:-1,|CA| SPORTS NET EAST HD
+http://185.23.213.162:8789/live/ania/ania/40749.m3u8
+#EXTINF:-1,|CA| SPORTS NET ONE HD
+http://185.23.213.162:8789/live/ania/ania/40750.m3u8
+#EXTINF:-1,|CA| SPORTS NET ONTARIO HD
+http://185.23.213.162:8789/live/ania/ania/40751.m3u8
+#EXTINF:-1,|CA| SPORTS NET PACIFIC HD
+http://185.23.213.162:8789/live/ania/ania/40752.m3u8
+#EXTINF:-1,|CA| SPORTS NET WORLD HD
+http://185.23.213.162:8789/live/ania/ania/40753.m3u8
+#EXTINF:-1,|CA| SPORTSMAN CHANNEL CANADA
+http://185.23.213.162:8789/live/ania/ania/40754.m3u8
+#EXTINF:-1,|CA| SPORTSNET 360
+http://185.23.213.162:8789/live/ania/ania/40755.m3u8
+#EXTINF:-1,|CA| SPORTSNET 360 HD
+http://185.23.213.162:8789/live/ania/ania/40756.m3u8
+#EXTINF:-1,|CA| SPORTSNET EAST
+http://185.23.213.162:8789/live/ania/ania/40757.m3u8
+#EXTINF:-1,|CA| SPORTSNET EAST HD
+http://185.23.213.162:8789/live/ania/ania/40758.m3u8
+#EXTINF:-1,|CA| SPORTSNET ONE
+http://185.23.213.162:8789/live/ania/ania/40759.m3u8
+#EXTINF:-1,|CA| SPORTSNET ONE HD
+http://185.23.213.162:8789/live/ania/ania/40760.m3u8
+#EXTINF:-1,|CA| SPORTSNET ONTARIO
+http://185.23.213.162:8789/live/ania/ania/40761.m3u8
+#EXTINF:-1,|CA| SPORTSNET PACIFIC
+http://185.23.213.162:8789/live/ania/ania/40762.m3u8
+#EXTINF:-1,|CA| SPORTSNET PACIFIC HD
+http://185.23.213.162:8789/live/ania/ania/40763.m3u8
+#EXTINF:-1,|CA| SPORTSNET WEST
+http://185.23.213.162:8789/live/ania/ania/40764.m3u8
+#EXTINF:-1,|CA| SPORTSNET WORLD
+http://185.23.213.162:8789/live/ania/ania/40765.m3u8
+#EXTINF:-1,|CA| SPORTSNET WORLD HD.
+http://185.23.213.162:8789/live/ania/ania/40766.m3u8
